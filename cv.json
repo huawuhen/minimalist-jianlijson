@@ -231,14 +231,14 @@
       "url": "https://adventjs.dev"
     },
     {
-      "name": "Codember",
+      "name": "Ai Hub",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "一款聚合Ai网关 配置了数十个ai厂商上百款模型 仅用一个接口便可畅通访问",
       "highlights": [
         "+2000 usuarios activos",
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
+      "url": "http://cf.1991321.xyz"
     },
     {
       "name": "love gaobai",
