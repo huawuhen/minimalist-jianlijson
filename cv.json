@@ -263,13 +263,13 @@
       "github": "https://github.com/midudev/pruebas-tecnicas"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "github blog",
+      "description": "基于github部署的博客应用 无需服务器 无需域名",
       "highlights": [
         "+15k tickets repartidos",
         "+50k espectadores en directo"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://19940816.xyz"
     }
   ]
 }
