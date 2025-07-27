@@ -6,7 +6,7 @@
     "email": "homwei@icloud.com",
     "phone": "+86 15537770199",
     "url": "https://midu.dev",
-    "summary": "+12年运维工程师经验，日常工作熟悉IT运维与影院放映机系统运维，目前就职头部院线提供放映系统兼信息运维已8年，2020年获得美国科视放映机工程师认证,熟悉Linux Docker 虚拟化等.",
+    "summary": "+12年运维工程师经验，日常工作熟悉IT运维与影院放映机系统运维，目前就职头部院线提供放映系统兼信息运维已8年，2020年获得美国科视放映机工程师认证,放映设备 熟练对科视放映机各大小配件含光引擎拆装问题解决. 信息方面熟悉影院服务器 交换机等各信息设备技术解决.个人Linux Docker 虚拟化等.",
     "location": {
       "address": "",
       "postalCode": "473001",
@@ -39,7 +39,7 @@
       "url": "https://www.wandafilm.com",
       "startDate": "2024-11-01",
       "endDate": null,
-      "summary": "从万达集团技术公司架构调整为万达电影,继续提供放映机,服务器以及以科视认证工程师身份负责维护河南区域各家影院的放映设备半年维保工作.",
+      "summary": "从万达集团技术公司架构调整为万达电影,继续提供放映机,服务器,IT等技术支持以及以科视认证工程师身份深度维护河南区域万达影院的放映设备半年巡检工作.",
       "highlights": [
         "Started the company"
       ]
@@ -210,9 +210,9 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "巡检项目",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "独自完成50多家万达影院535(更新中)多台次科视放映机 服务器的深度维护工作",
       "highlights": [
         "Elige tu propia aventura",
         "En desarrollo"
