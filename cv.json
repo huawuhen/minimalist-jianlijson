@@ -131,14 +131,14 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "Linux",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "winservic",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
@@ -173,14 +173,14 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "KVM",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
-      "name": "React",
+      "name": "Docker",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
