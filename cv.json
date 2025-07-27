@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "袁宏伟Homwei",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "多年运维工程师经验，熟悉IT运维与影院放映机系统运维，并获得美国科视放映机工程师认证。",
     "image": "/me.webp",
     "email": "homwei@icloud.com",
     "phone": "+86 15537770199",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "+12年运维工程师经验，日常工作熟悉IT运维与影院放映机系统运维，目前就职头部院线提供放映系统兼信息运维已8年，2020年获得美国科视放映机工程师认证.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "473001",
+      "city": "南阳",
+      "countryCode": "CN",
+      "region": "河南"
     },
     "profiles": [
       {
@@ -23,12 +23,12 @@
       {
         "network": "X",
         "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://x.com/huawuhen"
       },
       {
         "network": "GitHub",
         "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/huawuhen"
       }
     ]
   },
