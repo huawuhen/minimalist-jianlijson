@@ -252,15 +252,14 @@
       "github": "https://github.com/midudev/codi.link"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "easyGost",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "一款隧道加密链接程序 编写了国内特殊网络环境下的部署脚本",
       "highlights": [
         "100% gratuito",
         "+500 soluciones de la comunidad"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "github": "https://github.com/huawuhen/Multi-EasyGost"
     },
     {
       "name": "github blog",
@@ -269,7 +268,8 @@
         "+15k tickets repartidos",
         "+50k espectadores en directo"
       ],
-      "url": "https://19940816.xyz"
+      "url": "https://19940816.xyz",
+      "github": "https://github.com/huawuhen/huawuhen.github.io"
     }
   ]
 }
