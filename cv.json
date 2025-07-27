@@ -241,15 +241,15 @@
       "url": "https://codember.dev"
     },
     {
-      "name": "codi.link",
+      "name": "love gaobai",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "恋爱时30分钟写成的一个告白记录恋爱日期的小web应用,ps已失恋~_~",
       "highlights": [
         "100k visitas al mes",
         "Desarrollado por la comunidad"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://love.huawuhen.online",
+      "github": "https://github.com/huawuhen/mylove_gaobai"
     },
     {
       "name": "easyGost",
