@@ -6,7 +6,7 @@
     "email": "homwei@icloud.com",
     "phone": "+86 15537770199",
     "url": "https://midu.dev",
-    "摘要": "+12年运维工程师经验，日常工作熟悉IT运维与影院放映机系统运维，目前就职头部院线提供放映系统兼信息运维已8年，2020年获得美国科视放映机工程师认证.",
+    "summary": "+12年运维工程师经验，日常工作熟悉IT运维与影院放映机系统运维，目前就职头部院线提供放映系统兼信息运维已8年，2020年获得美国科视放映机工程师认证.",
     "location": {
       "address": "",
       "postalCode": "473001",
@@ -34,33 +34,33 @@
   },
   "work": [
     {
-      "name": "万达电影",
-      "position": "技术运维工程师",
+      "name": "midudev",
+      "position": "Divulgador sobre Programación Web",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2024-11-01",
+      "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "从万达集团技术公司架构调整为万达电影，继续提供放映机、服务器以及以科视认证工程师身份负责维护河南区域各家影院的放映设备半年维保工作.",
+      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "霍尔果斯万达影院技术服务公司",
-      "position": "工程师",
+      "name": "Adevinta",
+      "position": "Lead Frontend Architect",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-01-01",
-      "endDate": "2024-11-01",
-      "summary": "负责全国万达影城放映系统保护各品牌放映机、音频、服务器与信息设备技术支持工作；2020年参加科视(中国)二代放映机培训考试获得维保认证；后期以中影集团工程师身份负责其它院线的技术应急支持工作.",
+      "startDate": "2016-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "河南贯龙机械制造有限公司(华裔外企)",
-      "position": "IT主管",
-      "startDate": "2013-06-01",
-      "endDate": "2015-11-01",
-      "summary": "工作职责：从0规划建设企业网络、监控、中心机房；服务器建设并独立完成邮件、OA、即使通讯等系统部署；完成自动加密公司所有设备数字文档系统部署.",
+      "name": "Hubii",
+      "position": "Senior FrontEnd Developer",
+      "startDate": "2011-03-01",
+      "endDate": "2016-05-01",
+      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
       "highlights": [
         "Started the company"
       ]
