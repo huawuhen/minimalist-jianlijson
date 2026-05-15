@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "473001",
-      "city": "南阳",
+      "city": "杭州",
       "countryCode": "CN",
-      "region": "河南"
+      "region": "浙江"
     },
     "profiles": [
       {
@@ -33,12 +33,22 @@
     ]
   },
   "work": [
+     {
+      "name": "杭州红手印传媒科技有限公司",
+      "position": "Ai生成师兼信息技术主管",
+      "startDate": "2026-05-06",
+      "endDate": null,
+      "summary": "负责公司核心项目的AI视频内容生产、提示词优化；设计并开发LLM Agent的自动化工作流、定制公司私有化模型web前端系统等；负责维护公司网络、IT信息设备、NAS存储系统及AI算力服务器技术支持；持续技术层优化公司生产效率.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
     {
       "name": "万达电影",
       "position": "技术运维工程师",
       "url": "https://www.wandafilm.com",
       "startDate": "2024-11-01",
-      "endDate": null,
+      "endDate": "2026-04-30",
       "summary": "从万达集团技术公司架构调整为万达电影,继续提供放映机,服务器,IT等技术支持以及以科视认证工程师身份深度维护河南区域万达影院的放映设备半年巡检工作.",
       "highlights": [
         "Started the company"
